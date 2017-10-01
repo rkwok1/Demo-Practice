@@ -1,0 +1,9 @@
+C:\Users\Ryan\Documents\GitHub\Demo-Practice\EqualsOverridePractice\bin\Debug\EqualsOverridePractice.exe.config
+C:\Users\Ryan\Documents\GitHub\Demo-Practice\EqualsOverridePractice\bin\Debug\EqualsOverridePractice.exe
+C:\Users\Ryan\Documents\GitHub\Demo-Practice\EqualsOverridePractice\bin\Debug\EqualsOverridePractice.pdb
+C:\Users\Ryan\Documents\GitHub\Demo-Practice\EqualsOverridePractice\bin\Debug\GDIDrawer.dll
+C:\Users\Ryan\Documents\GitHub\Demo-Practice\EqualsOverridePractice\obj\Debug\EqualsOverridePractice.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\GitHub\Demo-Practice\EqualsOverridePractice\obj\Debug\EqualsOverridePractice.Properties.Resources.resources
+C:\Users\Ryan\Documents\GitHub\Demo-Practice\EqualsOverridePractice\obj\Debug\EqualsOverridePractice.csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\GitHub\Demo-Practice\EqualsOverridePractice\obj\Debug\EqualsOverridePractice.exe
+C:\Users\Ryan\Documents\GitHub\Demo-Practice\EqualsOverridePractice\obj\Debug\EqualsOverridePractice.pdb
